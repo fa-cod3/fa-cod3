@@ -41,7 +41,6 @@
 ### 📊 GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fa-cod3&show_icons=true&theme=dark&hide_border=true&bg_color=0b0d12" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fa-cod3&theme=dark&hide_border=true&background=0b0d12" height="165" />
 </p>
 
